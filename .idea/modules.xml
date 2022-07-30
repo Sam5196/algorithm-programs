@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/prime-numbers.iml" filepath="$PROJECT_DIR$/prime-numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm-programs.iml" filepath="$PROJECT_DIR$/algorithm-programs.iml" />
     </modules>
   </component>
 </project>
